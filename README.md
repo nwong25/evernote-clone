@@ -6,4 +6,8 @@ Simplified version of Evernote using:
 - React
 - Material UI
 
+To run application:
+
+- Run npm start
+
 Based off of [Zackazt's evernote clone tutorial](https://github.com/Zackazt/evernote-clone)
