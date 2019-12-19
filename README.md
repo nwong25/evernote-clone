@@ -8,6 +8,7 @@ Simplified version of Evernote using:
 
 To run application:
 
+- Run npm install
 - Run npm start
 
 Based off of [Zackazt's evernote clone tutorial](https://github.com/Zackazt/evernote-clone)
